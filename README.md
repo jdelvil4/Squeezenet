@@ -9,18 +9,27 @@ This code provides a demonstration of the Intel OpenVINO toolkit and its ability
 This project in totality includes:
 
 Python 3.x
+
 OpenVINO toolkit
+
 OpenCV
+
 Matplotlib
+
 NumPy
+
 SqueezeNet 1.1
 
 Project features:
 
 Squeezenet model loaded in OpenVINO IR format
+
 Processes and classifies single and batch input images
+
 Utilizes label mapping to display top-N prediction probabilities, listed by top 10 results
+
 Modular (preprocessing, inference, and display functions present)
+
 Output of layer-level performance metrics
 
 Note on file usage!
