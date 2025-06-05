@@ -28,5 +28,6 @@ Note on file usage!
 Image and model files reference throughout the code are not included, modify at your own discretion based on files and needs
 
 Developed by Juan Del Villar
+
 Email:jdelvil02@gmail.com
 Phone: (818) 213-4919
