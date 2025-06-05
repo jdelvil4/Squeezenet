@@ -1,9 +1,9 @@
 # Squeezenet
-Squeezenet Machine Learning (ML) project
+SqueezeNet Machine Learning (ML) project
 
 General Overview
 
-This code provides a demonstration of the Intel OpenVINO toolkit and its ability to perform image classification by using the Squeezenet Machine Learning model. Implemented as a Python language project and stored using Jupyter Notebook, this project demonstrates the powerful capabilities of the model in both single and burst image classification. 
+This code provides a demonstration of the Intel OpenVINO toolkit and its ability to perform image classification by using the SqueezeNet Machine Learning model. Implemented as a Python language project and stored using Jupyter Notebook, this project demonstrates the powerful capabilities of the model in both single and burst image classification. 
 
 
 This project in totality includes:
@@ -26,7 +26,7 @@ Project features:
 
 
 
-Squeezenet model loaded in OpenVINO IR format
+SqueezeNet model loaded in OpenVINO IR format
 
 Processes and classifies single and batch input images
 
