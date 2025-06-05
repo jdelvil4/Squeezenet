@@ -46,6 +46,6 @@ Image and model files reference throughout the code are not included, modify at 
 
 Developed by Juan Del Villar
 
-Email:jdelvil02@gmail.com
+Email: jdelvil02@gmail.com
 
 Phone: (818) 213-4919
